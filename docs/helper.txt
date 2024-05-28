@@ -1,0 +1,89 @@
+
+
+Entities
+
+	admin
+		name
+		email
+		about
+		password
+
+	collectors
+		name
+		email
+		password
+		about
+		profile_picture
+		isApproved
+		location
+
+	users
+		name
+		email
+		about
+		password
+		profile_picture
+		isApproved
+		location
+
+	scraps
+		title
+		material_type (organic, non_organic)
+		size (small, medium, large)
+		condition
+		description
+		location
+		starting_price
+		image1
+		image2
+		image3
+		image4
+		image5
+		isDisposed
+
+	pickup_requests
+		collector_id
+		user_id
+		scrap_id
+		bid
+		isConfirmed
+
+	activities
+		type (pickup_request, pickup_confirmation)
+		pickup_request_id
+
+
+Admin Side
+	Dashboard (Number of collectors, Number of users, total scrap listings, New users, New collectors, Activity table)
+
+	Users Table (unapprove, approve, view account (recent activities table))
+
+	Collectors Table (approve, unapprove, view account (recent activities table))
+
+	Scraps Table (delete, view)
+
+	Profile Page
+
+	Bank Side
+
+Collector Side
+	Dashboard (Bank balance, )
+	Pickup Requests along with their statuses
+	Profile Page
+
+User Side
+	Dashboard (Bank Balance, total new requests, No of active scrap listings)
+	Add new scrap listing
+	All scrap listings
+	pickup requests
+
+Public Side
+	Home page (search, explore scrap, Register as collector, Register as user)
+	Search page
+	Scrape listings
+	Bidding page
+	Map page (Will show all the scrap listings nearby and conveniently allow collector to send request direct from there)
+
+Todo
+    admin dashboard (Done)
+    admin profile page (Done)
