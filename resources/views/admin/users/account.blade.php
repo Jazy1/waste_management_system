@@ -64,7 +64,7 @@
                             <div class="card__header">
                                 <div class="row gutter-bottom-xs justify-content-between flex-grow-1">
                                     <div class="col">
-                                        <h3 class="card__title">User</h3>
+                                        <h3 class="card__title">Seller</h3>
                                     </div>
                                     <div class="col-auto"><span class="card__date">Joined on 
                                         {{-- {{ \Carbon\Carbon::parse($order->created_on)->format('jS F Y') }} --}}
@@ -78,7 +78,7 @@
                                     <svg class="icon-icon-user">
                                         <use xlink:href="#icon-user"></use>
                                     </svg> <b>Name:</b> <span>
-                                        Kora denay wala
+                                        Izza Awan
                                         {{-- {{$order->freelancer->name}} --}}
                                     </span>
                                 </li>
@@ -94,7 +94,7 @@
                                     {{-- {{$order->freelancer->email}} --}}
                                     ">
                                         {{-- {{$order->freelancer->email}} --}}
-                                        kora@gmail.com
+                                        izza@gmail.com
                                     </a>
                                 </li>
                             </ul>
@@ -144,7 +144,7 @@
                                     <div class="card-order__shipping">
                                         <div class="form-group">
                                             {{-- {{$order->description}} --}}
-                                            Kora denay wala is professional kora guy who has all types of trash at his house. You can come anytime to get trash. This guy also tips very generously so be sure to be in his good books. His tips include metal trash and sometimes, orange and banana peels.
+                                            Izza awan is professional scrap girl who has all types of scrap at her house. This guy also tips very generously so be sure to be in his good books. 
                                             {{-- <div class="input-group input-group--append">
                                                 <select
                                                     class="input js-input-select input--fluid select2-hidden-accessible"

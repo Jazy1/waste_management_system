@@ -321,10 +321,10 @@
                                                     <thead class="table__header table__header--sticky">
                                                         <tr>
                                                             <th>
-                                                                <span>Collector</span>
+                                                                <span>Buyer</span>
                                                             </th>
                                                             <th>
-                                                                <span>User</span>
+                                                                <span>Seller</span>
                                                             </th>
                                                             <th>
                                                                 <span>Scrap</span>
@@ -368,7 +368,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
+                                                                                Ayesha Khan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -390,7 +390,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
+                                                                                Izza Awan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -412,7 +412,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
+                                                                                Metal scrap
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -425,7 +425,7 @@
                                                                 </td>
                                                                 <td class="table__td">
                                                                     <span>
-                                                                        Koraywala wants to pickup Kora denay wala's kora
+                                                                        Izza Awan wants to pickup Ayesha's scrap
                                                                     </span>
                                                                 </td>
                                                                 {{-- <td class="table__td">
@@ -476,7 +476,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
+                                                                                Ayesha Khan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -498,7 +498,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
+                                                                                Izza Awan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -520,7 +520,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
+                                                                                Metal scrap
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -533,7 +533,7 @@
                                                                 </td>
                                                                 <td class="table__td">
                                                                     <span>
-                                                                        Kora denay wala just confirmed at  Koraywala's bid to pickup kora
+                                                                        Izza Awan wants to pickup Ayesha's scrap
                                                                     </span>
                                                                 </td>
                                                                 {{-- <td class="table__td">
@@ -584,7 +584,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
+                                                                                Ayesha Khan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -606,7 +606,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
+                                                                                Izza Awan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -628,7 +628,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
+                                                                                Metal scrap
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -641,7 +641,7 @@
                                                                 </td>
                                                                 <td class="table__td">
                                                                     <span>
-                                                                        Koraywala wants to pickup Kora denay wala's kora
+                                                                        Izza Awan wants to pickup Ayesha's scrap
                                                                     </span>
                                                                 </td>
                                                                 {{-- <td class="table__td">
@@ -692,7 +692,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
+                                                                                Ayesha Khan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -714,7 +714,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
+                                                                                Izza Awan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -736,7 +736,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
+                                                                                Metal scrap
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -749,7 +749,7 @@
                                                                 </td>
                                                                 <td class="table__td">
                                                                     <span>
-                                                                        Kora denay wala just confirmed at  Koraywala's bid to pickup kora
+                                                                        Izza Awan wants to pickup Ayesha's scrap
                                                                     </span>
                                                                 </td>
                                                                 {{-- <td class="table__td">
@@ -800,7 +800,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
+                                                                                Ayesha Khan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -822,7 +822,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
+                                                                                Izza Awan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -844,7 +844,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
+                                                                                Metal scrap
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -857,7 +857,7 @@
                                                                 </td>
                                                                 <td class="table__td">
                                                                     <span>
-                                                                        Koraywala wants to pickup Kora denay wala's kora
+                                                                        Izza Awan wants to pickup Ayesha's scrap
                                                                     </span>
                                                                 </td>
                                                                 {{-- <td class="table__td">
@@ -908,7 +908,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
+                                                                                Ayesha Khan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -930,7 +930,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
+                                                                                Izza Awan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -952,7 +952,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
+                                                                                Metal scrap
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -965,7 +965,7 @@
                                                                 </td>
                                                                 <td class="table__td">
                                                                     <span>
-                                                                        Kora denay wala just confirmed at  Koraywala's bid to pickup kora
+                                                                        Izza Awan wants to pickup Ayesha's scrap
                                                                     </span>
                                                                 </td>
                                                                 {{-- <td class="table__td">
@@ -1016,7 +1016,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
+                                                                                Ayesha Khan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -1038,7 +1038,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
+                                                                                Izza Awan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -1060,7 +1060,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
+                                                                                Metal scrap
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -1073,7 +1073,7 @@
                                                                 </td>
                                                                 <td class="table__td">
                                                                     <span>
-                                                                        Koraywala wants to pickup Kora denay wala's kora
+                                                                        Izza Awan wants to pickup Ayesha's scrap
                                                                     </span>
                                                                 </td>
                                                                 {{-- <td class="table__td">
@@ -1124,7 +1124,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
+                                                                                Ayesha Khan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -1146,7 +1146,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
+                                                                                Izza Awan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -1168,7 +1168,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
+                                                                                Metal scrap
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -1181,7 +1181,7 @@
                                                                 </td>
                                                                 <td class="table__td">
                                                                     <span>
-                                                                        Kora denay wala just confirmed at  Koraywala's bid to pickup kora
+                                                                        Izza Awan wants to pickup Ayesha's scrap
                                                                     </span>
                                                                 </td>
                                                                 {{-- <td class="table__td">
@@ -1232,7 +1232,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
+                                                                                Ayesha Khan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -1254,7 +1254,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
+                                                                                Izza Awan
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -1276,7 +1276,7 @@
                                                                         <div class="media-item__right">
                                                                             <h5 class="media-item__title">
                                                                                 {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
+                                                                                Metal scrap
                                                                             </h5>
                                                                         </div>
                                                                     </div>
@@ -1289,331 +1289,7 @@
                                                                 </td>
                                                                 <td class="table__td">
                                                                     <span>
-                                                                        Koraywala wants to pickup Kora denay wala's kora
-                                                                    </span>
-                                                                </td>
-                                                                {{-- <td class="table__td">
-                                                                    <span class="text-grey">
-                                                                        {{ $lastTransaction->company->name }}
-                                                                        pending
-                                                                    </span>
-                                                                </td> --}}
-                                                                <td class="table__td">
-                                                                    <div class="table__status">
-                                                                        {{-- @if ($lastTransaction->status == "paid" ) --}}
-                                                                            <span class="table__status-icon color-green"></span>
-                                                                            Paid
-                                                                        {{-- @endif --}}
-                                                                        {{-- @if ($lastTransaction->status == "cancelled" ) --}}
-                                                                            <span class="table__status-icon color-red"></span>
-                                                                            Canceled
-                                                                        {{-- @endif --}}
-                                                                        {{-- @if ($lastTransaction->status == "pending" ) --}}
-                                                                            <span class="table__status-icon color-blue"></span>
-                                                                            Pending
-                                                                        {{-- @endif --}}
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr class="table__row">
-                                                                {{-- <td class="table__td">
-                                                                    <span class="text-grey">
-                                                                        {{$lastTransaction->number}} 
-
-                                                                        Sindhi Koraywala
-                                                                    </span>
-                                                                </td> --}}
-                                                                <td class="table__td">
-                                                                    <div class="media-item">
-                                                                        <div class="media-item__icon color-orange">
-                                                                            <div class="media-item__icon-text">
-                                                                                boi
-                                                                            </div>
-                                                                            <img class="media-item__thumb"
-                                                                                src="
-                                                                                {{-- {{ asset($lastTransaction->freelancer->img) }} --}}
-                                                                                {{ asset("img/profile-pictures/default.svg") }}
-                                                                                "
-                                                                                alt="#" />
-                                                                                {{-- {{ $lastTransaction->freelancer->img  }} --}}
-                                                                        </div>
-                                                                        <div class="media-item__right">
-                                                                            <h5 class="media-item__title">
-                                                                                {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
-                                                                            </h5>
-                                                                        </div>
-                                                                    </div>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <div class="media-item">
-                                                                        <div class="media-item__icon color-orange">
-                                                                            <div class="media-item__icon-text">
-                                                                                boi
-                                                                            </div>
-                                                                            <img class="media-item__thumb"
-                                                                                src="
-                                                                                {{-- {{ asset($lastTransaction->freelancer->img) }} --}}
-                                                                                {{ asset("img/profile-pictures/default.svg") }}
-                                                                                "
-                                                                                alt="#" />
-                                                                                {{-- {{ $lastTransaction->freelancer->img  }} --}}
-                                                                        </div>
-                                                                        <div class="media-item__right">
-                                                                            <h5 class="media-item__title">
-                                                                                {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
-                                                                            </h5>
-                                                                        </div>
-                                                                    </div>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <div class="media-item">
-                                                                        <div class="media-item__icon color-orange">
-                                                                            <div class="media-item__icon-text">
-                                                                                boi
-                                                                            </div>
-                                                                            <img class="media-item__thumb"
-                                                                                src="
-                                                                                {{-- {{ asset($lastTransaction->freelancer->img) }} --}}
-                                                                                {{ asset("img/profile-pictures/default.svg") }}
-                                                                                "
-                                                                                alt="#" />
-                                                                                {{-- {{ $lastTransaction->freelancer->img  }} --}}
-                                                                        </div>
-                                                                        <div class="media-item__right">
-                                                                            <h5 class="media-item__title">
-                                                                                {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
-                                                                            </h5>
-                                                                        </div>
-                                                                    </div>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <span class="text-grey">
-                                                                        {{-- {{ \Carbon\Carbon::parse($lastTransaction->created_at)->format('d-m-Y h:i:s A') }}  --}}
-                                                                        RS.2500
-                                                                    </span>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <span>
-                                                                        Kora denay wala just confirmed at  Koraywala's bid to pickup kora
-                                                                    </span>
-                                                                </td>
-                                                                {{-- <td class="table__td">
-                                                                    <span class="text-grey">
-                                                                        {{ $lastTransaction->company->name }}
-                                                                        pending
-                                                                    </span>
-                                                                </td> --}}
-                                                                <td class="table__td">
-                                                                    <div class="table__status">
-                                                                        {{-- @if ($lastTransaction->status == "paid" ) --}}
-                                                                            <span class="table__status-icon color-green"></span>
-                                                                            Paid
-                                                                        {{-- @endif --}}
-                                                                        {{-- @if ($lastTransaction->status == "cancelled" ) --}}
-                                                                            <span class="table__status-icon color-red"></span>
-                                                                            Canceled
-                                                                        {{-- @endif --}}
-                                                                        {{-- @if ($lastTransaction->status == "pending" ) --}}
-                                                                            <span class="table__status-icon color-blue"></span>
-                                                                            Pending
-                                                                        {{-- @endif --}}
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr class="table__row">
-                                                                {{-- <td class="table__td">
-                                                                    <span class="text-grey">
-                                                                        {{$lastTransaction->number}} 
-
-                                                                        Sindhi Koraywala
-                                                                    </span>
-                                                                </td> --}}
-                                                                <td class="table__td">
-                                                                    <div class="media-item">
-                                                                        <div class="media-item__icon color-orange">
-                                                                            <div class="media-item__icon-text">
-                                                                                boi
-                                                                            </div>
-                                                                            <img class="media-item__thumb"
-                                                                                src="
-                                                                                {{-- {{ asset($lastTransaction->freelancer->img) }} --}}
-                                                                                {{ asset("img/profile-pictures/default.svg") }}
-                                                                                "
-                                                                                alt="#" />
-                                                                                {{-- {{ $lastTransaction->freelancer->img  }} --}}
-                                                                        </div>
-                                                                        <div class="media-item__right">
-                                                                            <h5 class="media-item__title">
-                                                                                {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
-                                                                            </h5>
-                                                                        </div>
-                                                                    </div>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <div class="media-item">
-                                                                        <div class="media-item__icon color-orange">
-                                                                            <div class="media-item__icon-text">
-                                                                                boi
-                                                                            </div>
-                                                                            <img class="media-item__thumb"
-                                                                                src="
-                                                                                {{-- {{ asset($lastTransaction->freelancer->img) }} --}}
-                                                                                {{ asset("img/profile-pictures/default.svg") }}
-                                                                                "
-                                                                                alt="#" />
-                                                                                {{-- {{ $lastTransaction->freelancer->img  }} --}}
-                                                                        </div>
-                                                                        <div class="media-item__right">
-                                                                            <h5 class="media-item__title">
-                                                                                {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
-                                                                            </h5>
-                                                                        </div>
-                                                                    </div>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <div class="media-item">
-                                                                        <div class="media-item__icon color-orange">
-                                                                            <div class="media-item__icon-text">
-                                                                                boi
-                                                                            </div>
-                                                                            <img class="media-item__thumb"
-                                                                                src="
-                                                                                {{-- {{ asset($lastTransaction->freelancer->img) }} --}}
-                                                                                {{ asset("img/profile-pictures/default.svg") }}
-                                                                                "
-                                                                                alt="#" />
-                                                                                {{-- {{ $lastTransaction->freelancer->img  }} --}}
-                                                                        </div>
-                                                                        <div class="media-item__right">
-                                                                            <h5 class="media-item__title">
-                                                                                {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
-                                                                            </h5>
-                                                                        </div>
-                                                                    </div>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <span class="text-grey">
-                                                                        {{-- {{ \Carbon\Carbon::parse($lastTransaction->created_at)->format('d-m-Y h:i:s A') }}  --}}
-                                                                        RS.2500
-                                                                    </span>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <span>
-                                                                        Koraywala wants to pickup Kora denay wala's kora
-                                                                    </span>
-                                                                </td>
-                                                                {{-- <td class="table__td">
-                                                                    <span class="text-grey">
-                                                                        {{ $lastTransaction->company->name }}
-                                                                        pending
-                                                                    </span>
-                                                                </td> --}}
-                                                                <td class="table__td">
-                                                                    <div class="table__status">
-                                                                        {{-- @if ($lastTransaction->status == "paid" ) --}}
-                                                                            <span class="table__status-icon color-green"></span>
-                                                                            Paid
-                                                                        {{-- @endif --}}
-                                                                        {{-- @if ($lastTransaction->status == "cancelled" ) --}}
-                                                                            <span class="table__status-icon color-red"></span>
-                                                                            Canceled
-                                                                        {{-- @endif --}}
-                                                                        {{-- @if ($lastTransaction->status == "pending" ) --}}
-                                                                            <span class="table__status-icon color-blue"></span>
-                                                                            Pending
-                                                                        {{-- @endif --}}
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr class="table__row">
-                                                                {{-- <td class="table__td">
-                                                                    <span class="text-grey">
-                                                                        {{$lastTransaction->number}} 
-
-                                                                        Sindhi Koraywala
-                                                                    </span>
-                                                                </td> --}}
-                                                                <td class="table__td">
-                                                                    <div class="media-item">
-                                                                        <div class="media-item__icon color-orange">
-                                                                            <div class="media-item__icon-text">
-                                                                                boi
-                                                                            </div>
-                                                                            <img class="media-item__thumb"
-                                                                                src="
-                                                                                {{-- {{ asset($lastTransaction->freelancer->img) }} --}}
-                                                                                {{ asset("img/profile-pictures/default.svg") }}
-                                                                                "
-                                                                                alt="#" />
-                                                                                {{-- {{ $lastTransaction->freelancer->img  }} --}}
-                                                                        </div>
-                                                                        <div class="media-item__right">
-                                                                            <h5 class="media-item__title">
-                                                                                {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Koraywala
-                                                                            </h5>
-                                                                        </div>
-                                                                    </div>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <div class="media-item">
-                                                                        <div class="media-item__icon color-orange">
-                                                                            <div class="media-item__icon-text">
-                                                                                boi
-                                                                            </div>
-                                                                            <img class="media-item__thumb"
-                                                                                src="
-                                                                                {{-- {{ asset($lastTransaction->freelancer->img) }} --}}
-                                                                                {{ asset("img/profile-pictures/default.svg") }}
-                                                                                "
-                                                                                alt="#" />
-                                                                                {{-- {{ $lastTransaction->freelancer->img  }} --}}
-                                                                        </div>
-                                                                        <div class="media-item__right">
-                                                                            <h5 class="media-item__title">
-                                                                                {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora denay wala
-                                                                            </h5>
-                                                                        </div>
-                                                                    </div>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <div class="media-item">
-                                                                        <div class="media-item__icon color-orange">
-                                                                            <div class="media-item__icon-text">
-                                                                                boi
-                                                                            </div>
-                                                                            <img class="media-item__thumb"
-                                                                                src="
-                                                                                {{-- {{ asset($lastTransaction->freelancer->img) }} --}}
-                                                                                {{ asset("img/profile-pictures/default.svg") }}
-                                                                                "
-                                                                                alt="#" />
-                                                                                {{-- {{ $lastTransaction->freelancer->img  }} --}}
-                                                                        </div>
-                                                                        <div class="media-item__right">
-                                                                            <h5 class="media-item__title">
-                                                                                {{-- {{$lastTransaction->freelancer->name}} --}}
-                                                                                Kora
-                                                                            </h5>
-                                                                        </div>
-                                                                    </div>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <span class="text-grey">
-                                                                        {{-- {{ \Carbon\Carbon::parse($lastTransaction->created_at)->format('d-m-Y h:i:s A') }}  --}}
-                                                                        RS.2500
-                                                                    </span>
-                                                                </td>
-                                                                <td class="table__td">
-                                                                    <span>
-                                                                        Kora denay wala just confirmed at  Koraywala's bid to pickup kora
+                                                                        Izza Awan wants to pickup Ayesha's scrap
                                                                     </span>
                                                                 </td>
                                                                 {{-- <td class="table__td">

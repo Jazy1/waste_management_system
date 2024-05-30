@@ -127,20 +127,20 @@
                                                         
                                                         <td class="table__td">
                                                             {{-- {{ $freelancer->name }} --}}
-                                                            Kora denay wala
+                                                            Izza Awan
                                                         </td>
 
                                                         <td class="d-none d-sm-table-cell table__td">
                                                             <span class="text-grey">
                                                                 {{-- {{ $freelancer->email }} --}}
-                                                                user@gmail.com
+                                                                izza@gmail.com
                                                             </span>
                                                         </td>
 
                                                         <td class="table__td">
                                                             <span>
                                                                 {{-- {{ $freelancer->about }} --}}
-                                                                Kora denay wala is professional kora guy who has all types of trash at his house. You can come anytime to get trash. This guy also tips very generously so be sure to be in his good books. His tips include metal trash and sometimes, orange and banana peels.
+                                                                Izza awan is professional scrap guy who has all types of scrap at her house. This guy also tips very generously so be sure to be in his good books. 
                                                             </span>
                                                         </td>
 
@@ -248,20 +248,20 @@
                                                         
                                                         <td class="table__td">
                                                             {{-- {{ $freelancer->name }} --}}
-                                                            Kora denay wala
+                                                            Izza Awan
                                                         </td>
 
                                                         <td class="d-none d-sm-table-cell table__td">
                                                             <span class="text-grey">
                                                                 {{-- {{ $freelancer->email }} --}}
-                                                                user@gmail.com
+                                                                izza@gmail.com
                                                             </span>
                                                         </td>
 
                                                         <td class="table__td">
                                                             <span>
                                                                 {{-- {{ $freelancer->about }} --}}
-                                                                Kora denay wala is professional kora guy who has all types of trash at his house. You can come anytime to get trash. This guy also tips very generously so be sure to be in his good books. His tips include metal trash and sometimes, orange and banana peels.
+                                                                Izza awan is professional scrap guy who has all types of scrap at her house. This guy also tips very generously so be sure to be in his good books. 
                                                             </span>
                                                         </td>
 
@@ -369,20 +369,20 @@
                                                         
                                                         <td class="table__td">
                                                             {{-- {{ $freelancer->name }} --}}
-                                                            Kora denay wala
+                                                            Izza Awan
                                                         </td>
 
                                                         <td class="d-none d-sm-table-cell table__td">
                                                             <span class="text-grey">
                                                                 {{-- {{ $freelancer->email }} --}}
-                                                                user@gmail.com
+                                                                izza@gmail.com
                                                             </span>
                                                         </td>
 
                                                         <td class="table__td">
                                                             <span>
                                                                 {{-- {{ $freelancer->about }} --}}
-                                                                Kora denay wala is professional kora guy who has all types of trash at his house. You can come anytime to get trash. This guy also tips very generously so be sure to be in his good books. His tips include metal trash and sometimes, orange and banana peels.
+                                                                Izza awan is professional scrap guy who has all types of scrap at her house. This guy also tips very generously so be sure to be in his good books. 
                                                             </span>
                                                         </td>
 
@@ -490,20 +490,20 @@
                                                         
                                                         <td class="table__td">
                                                             {{-- {{ $freelancer->name }} --}}
-                                                            Kora denay wala
+                                                            Izza Awan
                                                         </td>
 
                                                         <td class="d-none d-sm-table-cell table__td">
                                                             <span class="text-grey">
                                                                 {{-- {{ $freelancer->email }} --}}
-                                                                user@gmail.com
+                                                                izza@gmail.com
                                                             </span>
                                                         </td>
 
                                                         <td class="table__td">
                                                             <span>
                                                                 {{-- {{ $freelancer->about }} --}}
-                                                                Kora denay wala is professional kora guy who has all types of trash at his house. You can come anytime to get trash. This guy also tips very generously so be sure to be in his good books. His tips include metal trash and sometimes, orange and banana peels.
+                                                                Izza awan is professional scrap guy who has all types of scrap at her house. This guy also tips very generously so be sure to be in his good books. 
                                                             </span>
                                                         </td>
 
@@ -611,20 +611,20 @@
                                                         
                                                         <td class="table__td">
                                                             {{-- {{ $freelancer->name }} --}}
-                                                            Kora denay wala
+                                                            Izza Awan
                                                         </td>
 
                                                         <td class="d-none d-sm-table-cell table__td">
                                                             <span class="text-grey">
                                                                 {{-- {{ $freelancer->email }} --}}
-                                                                user@gmail.com
+                                                                izza@gmail.com
                                                             </span>
                                                         </td>
 
                                                         <td class="table__td">
                                                             <span>
                                                                 {{-- {{ $freelancer->about }} --}}
-                                                                Kora denay wala is professional kora guy who has all types of trash at his house. You can come anytime to get trash. This guy also tips very generously so be sure to be in his good books. His tips include metal trash and sometimes, orange and banana peels.
+                                                                Izza awan is professional scrap guy who has all types of scrap at her house. This guy also tips very generously so be sure to be in his good books. 
                                                             </span>
                                                         </td>
 
@@ -732,20 +732,20 @@
                                                         
                                                         <td class="table__td">
                                                             {{-- {{ $freelancer->name }} --}}
-                                                            Kora denay wala
+                                                            Izza Awan
                                                         </td>
 
                                                         <td class="d-none d-sm-table-cell table__td">
                                                             <span class="text-grey">
                                                                 {{-- {{ $freelancer->email }} --}}
-                                                                user@gmail.com
+                                                                izza@gmail.com
                                                             </span>
                                                         </td>
 
                                                         <td class="table__td">
                                                             <span>
                                                                 {{-- {{ $freelancer->about }} --}}
-                                                                Kora denay wala is professional kora guy who has all types of trash at his house. You can come anytime to get trash. This guy also tips very generously so be sure to be in his good books. His tips include metal trash and sometimes, orange and banana peels.
+                                                                Izza awan is professional scrap guy who has all types of scrap at her house. This guy also tips very generously so be sure to be in his good books. 
                                                             </span>
                                                         </td>
 
@@ -853,141 +853,20 @@
                                                         
                                                         <td class="table__td">
                                                             {{-- {{ $freelancer->name }} --}}
-                                                            Kora denay wala
+                                                            Izza Awan
                                                         </td>
 
                                                         <td class="d-none d-sm-table-cell table__td">
                                                             <span class="text-grey">
                                                                 {{-- {{ $freelancer->email }} --}}
-                                                                user@gmail.com
+                                                                izza@gmail.com
                                                             </span>
                                                         </td>
 
                                                         <td class="table__td">
                                                             <span>
                                                                 {{-- {{ $freelancer->about }} --}}
-                                                                Kora denay wala is professional kora guy who has all types of trash at his house. You can come anytime to get trash. This guy also tips very generously so be sure to be in his good books. His tips include metal trash and sometimes, orange and banana peels.
-                                                            </span>
-                                                        </td>
-
-                                                        <td class="table__td text-nowrap">
-                                                            <span class="text-grey">
-                                                                {{-- {{ \Carbon\Carbon::parse($freelancer->created_on)->format('jS F Y') }} --}}
-                                                                25th May 2024
-                                                            </span>
-                                                        </td>
-
-                                                        {{-- <td class="d-none d-sm-table-cell table__td">
-                                                            <div class="table__status">
-                                                                @if ($order->status == 'completed')
-                                                                    <span class="table__status-icon color-green"></span>
-                                                                    Completed
-                                                                @endif
-                                                                @if ($order->status == 'cancelled')
-                                                                    <span class="table__status-icon color-red"></span>
-                                                                    Cancelled
-                                                                @endif
-                                                                @if ($order->status == 'pending')
-                                                                    <span class="table__status-icon color-blue"></span>
-                                                                    Pending
-                                                                @endif
-                                                            </div>
-                                                        </td> --}}
-                                                        <td class="table__td table__actions">
-                                                            
-                                                            <div class="items-more">
-                                                                <button class="items-more__button">
-                                                                    <svg class="icon-icon-more">
-                                                                        <use xlink:href="#icon-more"></use>
-                                                                    </svg>
-                                                                </button>
-                                                                <div class="dropdown-items dropdown-items--right">
-                                                                    <div class="dropdown-items__container">
-                                                                        <ul class="dropdown-items__list">
-                                                                            <li class="dropdown-items__item"><a target="_blank"
-                                                                                    class="dropdown-items__link"
-                                                                                    href="
-                                                                                    {{-- {{ route("public.freelancer.show", ["id" => $freelancer->id]) }} --}}
-                                                                                    {{ route("admin.users.account") }}
-                                                                                    "><span
-                                                                                        class="dropdown-items__link-icon">
-                                                                                        <svg class="icon-icon-view">
-                                                                                            <use xlink:href="#icon-view">
-                                                                                            </use>
-                                                                                        </svg></span>View User</a>
-                                                                            </li>
-                                                                            {{-- <li class="dropdown-items__item"><a target="_blank"
-                                                                                    class="dropdown-items__link"
-                                                                                    href="{{ route("public.gig.show", ["id" => $order->gig->id]) }}"><span
-                                                                                        class="dropdown-items__link-icon">
-                                                                                        <svg class="icon-icon-view">
-                                                                                            <use xlink:href="#icon-view">
-                                                                                            </use>
-                                                                                        </svg></span>View Gig</a>
-                                                                            </li>
-                                                                            <li class="dropdown-items__item"><a target="_blank"
-                                                                                    class="dropdown-items__link"
-                                                                                    href="{{ route("public.freelancer.show", ["id" => $order->freelancer->id]) }}"><span
-                                                                                        class="dropdown-items__link-icon">
-                                                                                        <svg class="icon-icon-view">
-                                                                                            <use xlink:href="#icon-view">
-                                                                                            </use>
-                                                                                        </svg></span>View Freelancer</a>
-                                                                            </li>
-                                                                            <li class="dropdown-items__item">
-                                                                                <button onclick="updateStatus({{ $order->id }}, 'cancelled')" class="dropdown-items__link">
-                                                                                    <span class="dropdown-items__link-icon">
-                                                                                        <i class="fa-solid fa-ban"></i>
-                                                                                    </span>
-                                                                                    Cancel
-                                                                                </button>
-                                                                            </li>
-                                                                            <li class="dropdown-items__item">
-                                                                                <button onclick="updateStatus({{ $order->id }}, 'completed')" class="dropdown-items__link">
-                                                                                    <span class="dropdown-items__link-icon">
-                                                                                        <i class="fa-solid fa-check"></i>
-                                                                                    </span>
-                                                                                    Complete
-                                                                                </button>
-                                                                            </li>
-                                                                            <li class="dropdown-items__item">
-                                                                                <button onclick="updateStatus({{ $order->id }}, 'pending')" class="dropdown-items__link">
-                                                                                    <span class="dropdown-items__link-icon">
-                                                                                        <i class="fa-solid fa-clock-rotate-left"></i>
-                                                                                    </span>
-                                                                                    Pending
-                                                                                </button>
-                                                                            </li> --}}
-                                                                        </ul>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                    <tr class="table__row">
-
-                                                        <td class="d-none d-lg-table-cell table__td">
-                                                            <span class="text-grey">#101010
-                                                                {{-- {{ $freelancer->id }} --}}
-                                                            </span>
-                                                        </td>
-                                                        
-                                                        <td class="table__td">
-                                                            {{-- {{ $freelancer->name }} --}}
-                                                            Kora denay wala
-                                                        </td>
-
-                                                        <td class="d-none d-sm-table-cell table__td">
-                                                            <span class="text-grey">
-                                                                {{-- {{ $freelancer->email }} --}}
-                                                                user@gmail.com
-                                                            </span>
-                                                        </td>
-
-                                                        <td class="table__td">
-                                                            <span>
-                                                                {{-- {{ $freelancer->about }} --}}
-                                                                Kora denay wala is professional kora guy who has all types of trash at his house. You can come anytime to get trash. This guy also tips very generously so be sure to be in his good books. His tips include metal trash and sometimes, orange and banana peels.
+                                                                Izza awan is professional scrap guy who has all types of scrap at her house. This guy also tips very generously so be sure to be in his good books. 
                                                             </span>
                                                         </td>
 

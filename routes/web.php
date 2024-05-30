@@ -13,9 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('public.home');
+})->name("public.home");
 
 Route::get('/playground', function () {
     return view('playground');
@@ -46,6 +50,12 @@ Route::prefix("admin")->group(function(){
     });
 
 });
+
+Route::get('seller/register', function () { return view('seller_register'); })->name("sellers.create");
+Route::get('seller/login', function () { return view('seller_login'); })->name('sellers.loginForm');
+
+Route::get('buyer/register', function () { return view('buyer_register'); })->name("buyers.create");
+Route::get('buyer/login', function () { return view('buyer_login'); })->name('buyers.loginForm');
 
 Route::prefix("user")->group(function(){
 
